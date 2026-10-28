@@ -11,7 +11,7 @@ Perfect for playing with bots, close friends or your spouse.
 
 ## BEHAVIOR
 - Sets loot to Free For All two seconds after joining or creating a group, or becoming the leader.
-- Also sets loot to Free For All existing groups when logging in or reloading the interface.
+- Also sets loot to Free For All for existing groups when logging in or reloading the interface.
 - Won't continually overwrite manual loot-method changes within an existing group.
 - Won't try to change loot in Dungeon Finder groups that have locked loot rules.
 
