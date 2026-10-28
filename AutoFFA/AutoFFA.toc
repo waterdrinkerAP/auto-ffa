@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: AutoFFA
+## Notes: Automatically sets Free For All loot when you become group leader.
+## Version: 1.0.0
+
+AutoFFA.lua
